@@ -1,6 +1,6 @@
-# Welcome to Bellroy Robot
+# Welcome to someRobotThing
 
-Bellroy Robot shows a grid and allows navigation using mouse/touch.
+someRobotThing shows a grid and allows navigation using mouse/touch.
 
 ## Uses
 - Bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
