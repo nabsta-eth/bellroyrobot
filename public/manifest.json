@@ -1,7 +1,7 @@
 {
   "short_name": "Bellroy Robot",
   "name": "Bellroy Robot",
-  "description": "Bellroy Robot shows a grid and allows navigation using mouse, touch or keyboard.",
+  "description": "Bellroy Robot shows a grid and allows navigation using mouse/touch.",
   "icons": [
     {
       "src": "favicon.ico",
